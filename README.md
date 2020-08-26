@@ -2,7 +2,7 @@
 
 ## Fala Clã! 👋
 ✨ Amante do Design e Front-end.<br>
-Sou estudante de programação, sempre em busca de crescimento e buscando "chegar ao próximo nível"! 🚀
+Sou estudante de programação, sempre em busca de crescimento! 🚀
 
  :rocket:  &nbsp; Estou trabalhando com **HTML** e **CSS** puro pra criação de livros digitais (ePubs).
  <br/> :purple_heart: &nbsp; Buscando conhecimento com projetos em Front-end e ralando com o Back-end
