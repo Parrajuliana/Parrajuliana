@@ -1,15 +1,15 @@
 # OOi! eu sou a Juliana Parra, mas você pode me chamar de Jú.
 
-- 🔭 Hoje eu trabalho como Web Designer
-- :purple_heart: Buscando conhecimento com projetos em Front-end e UX/UI Design
-- 📚 Estudando JavaScript, React e UX 
-- 💬 Sobre mim: Estudo ADS, fã de games com boas histórias e gêneros de terror.. ou só um HeartStone para passar o tempo.
-- <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JulianaParra-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/juliana-parra-00701818a)](https://www.linkedin.com/in/juliana-parra-00701818a/) 
+- 🔭 Hoje eu trabalho como Dev Frontend Pleno
+- :purple_heart: Buscando conhecimento com projetos em UX/UI Design
+- 📚 Estudando: React e UX 
+- 💬 Sobre mim: Grgaduada em ADS, web designer Frellancer, cursando MBA em UX, fã de games com boas histórias e gêneros de terror.
+- :email: Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JulianaParra-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/juliana-parra-00701818a)](https://www.linkedin.com/in/juliana-parra-00701818a/) 
 
 <div align="center">
   <a href="https://github.com/Parrajuliana/Parrajuliana">    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Parrajuliana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parrajuliana&layout=compact&langs_count=7&theme=dark"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Parrajuliana&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parrajuliana&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
    <div style="display: inline_block"><br>
