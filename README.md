@@ -1,6 +1,6 @@
 # OOi! eu sou a Juliana Parra, mas você pode me chamar de Jú.
 
-- 🔭 Hoje eu trabalho como Dev Frontend Pleno
+- 🔭 Hoje trabalho como Dev Frontend Pleno
 - :purple_heart: Buscando conhecimento com projetos em UX/UI Design
 - 📚 Estudando: React e UX 
 - 💬 Sobre mim: Graduada em ADS, web designer Frellancer, cursando MBA em UX, fã de games com boas histórias e gêneros de terror.
