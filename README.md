@@ -3,7 +3,7 @@
 - 🔭 Hoje eu trabalho como Dev Frontend Pleno
 - :purple_heart: Buscando conhecimento com projetos em UX/UI Design
 - 📚 Estudando: React e UX 
-- 💬 Sobre mim: Grgaduada em ADS, web designer Frellancer, cursando MBA em UX, fã de games com boas histórias e gêneros de terror.
+- 💬 Sobre mim: Graduada em ADS, web designer Frellancer, cursando MBA em UX, fã de games com boas histórias e gêneros de terror.
 - :email: Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-JulianaParra-blue?style=flat-square&logo=Linkedin&logoColor=white&linkhttps://www.linkedin.com/in/juliana-parra-00701818a)](https://www.linkedin.com/in/juliana-parra-00701818a/) 
 
 <div align="center">
